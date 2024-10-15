@@ -1,5 +1,5 @@
 # MultiSynth
-
+![MultiSynth](imgs/logo.png)
 ![MultiSynth](imgs/multisynth.svg)
 
 
